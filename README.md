@@ -1,12 +1,10 @@
-## Fix for `'str' object is not a mapping`
+Fix for 'str' object is not a mapping
 
-### v2.5.1
+v2.5.1
 
 This version includes a fix for an issue where the extractor could fail during Phase 1 with:
 
-```text
 Pipeline error: 'str' object is not a mapping
-
 
 # ⚡ FitGirl Direct Link Extractor for JDownloader 2
 

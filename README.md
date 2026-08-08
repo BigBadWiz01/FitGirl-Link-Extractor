@@ -1,3 +1,13 @@
+## Fix for `'str' object is not a mapping`
+
+### v2.5.1
+
+This version includes a fix for an issue where the extractor could fail during Phase 1 with:
+
+```text
+Pipeline error: 'str' object is not a mapping
+
+
 # ⚡ FitGirl Direct Link Extractor for JDownloader 2
 
 A fast, lightweight Windows app that extracts multi-part download links from FitGirl pastebin pages, automatically passes Cloudflare verification in the background, and gives you **TRUE direct download links** (`dl.fuckingfast.co`) for JDownloader 2.
